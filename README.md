@@ -25,3 +25,7 @@ After running this command, the development environment is operational and can b
 ## Custom Project
 
 You can also follow the instructions at `https://storybook.js.org/` to initialise a new project, but will have difficulty in contributing back. I don't recommend you do that. We also keep notes in the `./notes` folder here.
+
+## License
+
+There is no license provided by default. All collaborators will be given a blind eye to the contents of this repository. The public is free to do as they wish.
